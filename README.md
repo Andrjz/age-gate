@@ -14,6 +14,7 @@ It can also **block access entirely** for selected countries, showing an alterna
 - Settings link directly from the Plugins page.
 - Developer/company link displayed in the plugin list.
 
+## Screenshots
 
 <p align="center">
   <img src="images/screenshot.png" alt="Screenshot 1" width="45%" />
