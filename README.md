@@ -15,3 +15,7 @@ It can also **block access entirely** for selected countries, showing an alterna
 - Developer/company link displayed in the plugin list.
 
 
+<p align="center">
+  <img src="images/screenshot.png" alt="Screenshot 1" width="45%" />
+  <img src="images/screenshot2.png" alt="Screenshot 2" width="45%" />
+</p>
