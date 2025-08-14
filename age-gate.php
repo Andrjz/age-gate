@@ -59,7 +59,7 @@ class AGC_Plugin {
             'btn_enter'   => 'Confirm & Enter',
             'legal'       => 'All models appearing on this website are 18 years or older. By entering you accept our Privacy Policy and Cookie Notice.',
             'title_block' => 'Access Restricted',
-            'text_block'  => 'This site is not available in your country.',
+            'text_block'  => 'We are unable to provide our services to visitors from your location due to regional restrictions and compliance requirements.',
             'btn_alt'     => 'Go to Alternative',
 
             // Colors
