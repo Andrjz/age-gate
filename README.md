@@ -18,5 +18,5 @@ It can also **block access entirely** for selected countries, showing an alterna
 
 <p align="center">
   <img src="images/screenshot.png" alt="Screenshot 1" width="45%" />
-  <img src="images/screenshot3.png" alt="Screenshot 3" width="45%" />
+  <img src="images/screenshot4.png" alt="Screenshot 4" width="45%" />
 </p>
