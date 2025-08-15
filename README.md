@@ -12,7 +12,6 @@ It can also **block access entirely** for selected countries, showing an alterna
 - Option to remember user confirmation using **sessionStorage** or **localStorage** for a set number of hours.
 - Supports Cloudflare's `/cdn-cgi/trace` for geolocation and `HTTP_CF_IPCOUNTRY` header for faster detection.
 - Settings link directly from the Plugins page.
-- Developer/company link displayed in the plugin list.
 
 ## Screenshots
 
